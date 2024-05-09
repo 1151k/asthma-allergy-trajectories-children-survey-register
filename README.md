@@ -14,7 +14,7 @@
 - **assess-survey-data.r**: descriptive statistics of postal survey/NMBR data
 - **assess-medication-data.r**: descriptive statistics of medication (NPDR) data
 - **assess-missingness.r**: assess and describe missingness in data
-- **imputation.r**: perform and assess multiple imputation
+- **imputation.r**: assess correlation and perform and assess multiple imputation
 - **pool-imputations.r**: pool imputations of background characteristics (i.e., not trajectory analysis results) and tabulate non-imputed/imputed data
 - **trajectory-modelling.r**: perform trajectory analysis
 - **assess-lca.r**: compile statistical metrics to assess models from statistical point of view
