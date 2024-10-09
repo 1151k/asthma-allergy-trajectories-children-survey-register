@@ -1,9 +1,7 @@
 ##### R scripts used in 
-**Asthma and allergy trajectories in children based on combined survey and register data**
-##### Daniil Lisik, Göran Wennergren, Hannu Kankaanranta, Rani Basna, Syed Ahmar Shah, Bernt Alm, Frida Strömberg Celind, Emma Goksör, Bright Ibeabughichi Nwaru  
-##### *In preparation*
+##### Lisik, D., Wennergren, G., Kankaanranta, H., Basna, R., Shah, S. A., Alm, B., Celind, F. S., Goksör, E., & Nwaru, B. I. (2024). Asthma and allergy trajectories in children based on combined parental report and register data. *Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology*, 35(10), e14254. https://doi.org/10.1111/pai.14254.
 
-<br>
+<hr>
 
 #### Description of R scripts
 - **ATC_CODES.r**: define Anatomical Therapeutic Chemical (ATC) codes used throughout the other R scripts
