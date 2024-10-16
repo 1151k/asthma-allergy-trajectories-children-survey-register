@@ -3,7 +3,7 @@
 
 <hr>
 
-#### Description of R scripts
+###### Description of R scripts
 - **ATC_CODES.r**: define Anatomical Therapeutic Chemical (ATC) codes used throughout the other R scripts
 - **define-survey-data.r**: select variables of interest from the postal surveys and the National Medical Birth Register (NMBR), and create composite variables from these
 - **define-medication-data-long.r**: select/create variables of interest from the National Prescribed Drug Register (NPDR), and output in long format for descriptive statistics
@@ -19,14 +19,14 @@
 - **assess-trajectories.r**: plot trajectories to assess models from clinical point of view
 - **pool-trajectories.r**: pool trajectory results (indicator probabilities, class labels...)
 
-<br>
+<hr>
 
-#### Data availability
+###### Data availability
 Due to regulations and contractual agreement with study participants, the underlying data are not available.
 
-<br>
+<hr>
 
-#### Contact
+###### Contact
 For any inquiries, please contact [Daniil Lisik](https://www.gu.se/en/about/find-staff/daniillisik) ([daniil.lisik@gmail.com](mailto:daniil.lisik@gmail.com)).
 
 <br>
