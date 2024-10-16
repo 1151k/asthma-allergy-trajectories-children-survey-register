@@ -1,4 +1,4 @@
-##### R scripts used in 
+###### R scripts used in 
 ##### Lisik, D., Wennergren, G., Kankaanranta, H., Basna, R., Shah, S. A., Alm, B., Celind, F. S., Goksör, E., & Nwaru, B. I. (2024). Asthma and allergy trajectories in children based on combined parental report and register data. *Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology*, 35(10), e14254. https://doi.org/10.1111/pai.14254.
 
 <hr>
